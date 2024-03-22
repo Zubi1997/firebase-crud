@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398005770155",
+    "project_id": "accessment-f7e63",
+    "storage_bucket": "accessment-f7e63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398005770155:android:87e853da004ecd2cd464ee",
+        "android_client_info": {
+          "package_name": "com.skillaccessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPM44A2DryKLDnQGrZlLlgLH145MO03XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
